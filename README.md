@@ -1,2 +1,4 @@
 # hello-world
-first repo
+hey 
+ready for a new start ?
+lets go
